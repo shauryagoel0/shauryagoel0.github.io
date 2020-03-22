@@ -1,12 +1,5 @@
 This is my first *blog*!
 
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+I am a student who likes Deep Learning and Machine Learning. These blogs contain my understanding of the topics I find difficult to understand and are interesting.
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-
-
-This is first *blog*.
+I write on [medium](https://medium.com/@shoray.goel) too. But decided to make a blog too.
